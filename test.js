@@ -4,8 +4,7 @@ function test() {
   return (
     <>
       <div>test NTT</div>
-      <div>test NTT2</div>
-      <div>test NTT3</div>
+      <div>test NTT</div>
     </>
   );
 }
